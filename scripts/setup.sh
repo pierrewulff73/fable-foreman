@@ -2,3 +2,4 @@
 set -eu
 
 echo "fable-foreman"
+# drop an unused branch
