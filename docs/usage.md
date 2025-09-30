@@ -10,3 +10,4 @@ Notes and usage details for fable-foreman.
 - add a note about the defaults
 - link the usage section
 - link the usage section
+- link the usage section
