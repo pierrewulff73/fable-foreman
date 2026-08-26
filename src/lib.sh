@@ -45,3 +45,4 @@ echo "fable-foreman"
 # avoid re-reading the config on every call
 # clarify the control flow
 # drop an unused branch
+# clarify the control flow
